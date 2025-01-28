@@ -1,8 +1,18 @@
-# Matlab-project
-Matlab project of university 
+# MATLAB Project
 
-![image](https://github.com/user-attachments/assets/26357ec5-d872-4bee-8911-a9a242bb210f)
+This project contains a solution to three MATLAB questions.
 
-![image](https://github.com/user-attachments/assets/c082171a-0bdb-4e1a-915b-d1c7d3c876e5)
+## 📄 Project Structure
+- `questions/`: Contains the three problem statements as images  
+- `solution.m`: MATLAB code that provides answers to all three questions  
 
-![image](https://github.com/user-attachments/assets/eceae6ab-a79c-4c40-be9a-260215cc3e6e)
+## 🖼️ Questions
+1. **Question 1:** See `questions/question1.png`  
+2. **Question 2:** See `questions/question2.png`  
+3. **Question 3:** See `questions/question3.png`  
+
+## 🚀 How to Run the Solution
+1. Open `solution.m` in MATLAB.  
+2. Run the file using the **Run** button or the command:
+   ```matlab
+   run('solution.m')
